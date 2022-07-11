@@ -1,0 +1,10 @@
+{
+  "name": "warp",
+  "description": "unlimited warp",
+  "keywords": ["warp", "Docker"],
+  "env": {
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
