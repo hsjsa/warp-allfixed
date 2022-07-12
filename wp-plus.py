@@ -24,7 +24,7 @@ print ("[+] THIS SCRIPT CODDED BY ALIILAPRO")
 print ("[-] SITE: aliilapro.github.io") 
 print ("[-] TELEGRAM: aliilapro")
 print ("--------")
-referrer = 'a558edc0-3f33-492b-88b7-a9eeabf0786d'
+referrer = os.environ('WARP_ID')
 def genString(stringLength):
 	try:
 		letters = string.ascii_letters + string.digits
