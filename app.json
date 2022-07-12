@@ -3,10 +3,6 @@
   "description": "unlimited warp",
   "keywords": ["warp", "Docker"],
   "env": {
-    "WARP_ID": {
-      "description": "your warp id",
-      "value": ""
-      "required": true
   },
   "website": "",
   "repository": "",
